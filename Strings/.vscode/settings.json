@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "files.associations": {
+        "memory": "cpp",
+        "utility": "cpp",
+        "ios": "cpp",
+        "random": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
